@@ -1,2 +1,2 @@
 # Programa
-Trabajo colaborativo
+Programa de Álgebra
