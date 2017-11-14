@@ -1,2 +1,2 @@
-# Programa
-Programa de Álgebra
+# Proyecto Final
+Fundamentos de Programación
